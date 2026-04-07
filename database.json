@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id": "A4IgRCU2bQs5hrQjhAXTV",
+      "name": "Royal Banarasi Silk Saree",
+      "price": 12500,
+      "description": "Exquisite handwoven Banarasi silk saree with intricate gold zari work. Features traditional motifs with a rich pallu. Perfect for weddings and festive occasions.",
+      "category": "Sarees",
+      "sizes": [
+        "Free Size"
+      ],
+      "image": "banarasi-silk.webp",
+      "in_stock": true,
+      "created_at": "2026-04-07T07:17:52.321Z"
+    },
+    {
+      "id": "ukCJ5Ko4ZM8GCIUmbOwa6",
+      "name": "Elegant Georgette Saree",
+      "price": 4500,
+      "description": "Lightweight and flowing georgette saree ideal for daily wear and casual gatherings. Features delicate printed patterns with a contrasting border.",
+      "category": "Sarees",
+      "sizes": [
+        "Free Size"
+      ],
+      "image": "georgette-saree.webp",
+      "in_stock": true,
+      "created_at": "2026-04-07T07:17:52.322Z"
+    },
+    {
+      "id": "5hS_NOWw2SqVtfBVJKPpM",
+      "name": "Modern Pre-Draped Saree",
+      "price": 7800,
+      "description": "Trending 2026 pre-draped saree for the modern woman. No draping hassle — just wear and go! Comes with pre-stitched pleats and pallu.",
+      "category": "Sarees",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "pre-draped-saree.webp",
+      "in_stock": true,
+      "created_at": "2026-04-07T07:17:52.322Z"
+    },
+    {
+      "id": "TTsWhk6vL7qcq0IfJjQeX",
+      "name": "Embroidered Kurti Set",
+      "price": 3500,
+      "description": "Beautiful hand-embroidered cotton kurti with matching palazzo pants and dupatta. Comfortable yet stylish for everyday elegance.",
+      "category": "Kurta Sets",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image": "embroidered-kurti.webp",
+      "in_stock": true,
+      "created_at": "2026-04-07T07:17:52.322Z"
+    },
+    {
+      "id": "kmw9ZtlfoW_scshJ6GcUF",
+      "name": "Designer Palazzo Suit",
+      "price": 5200,
+      "description": "Premium palazzo suit with intricate mirror work and thread embroidery. Flowy palazzo pants paired with a fitted kurta and chiffon dupatta.",
+      "category": "Kurta Sets",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image": "palazzo-suit.webp",
+      "in_stock": true,
+      "created_at": "2026-04-07T07:17:52.322Z"
+    },
+    {
+      "id": "SlirQ2TdJo47OjEru_a3u",
+      "name": "Festive Sharara Set",
+      "price": 6800,
+      "description": "Gorgeous sharara set with flared pants and a short kurta. Heavy sequin and zardozi work make this perfect for parties and festivals.",
+      "category": "Kurta Sets",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "sharara-set.webp",
+      "in_stock": true,
+      "created_at": "2026-04-07T07:17:52.322Z"
+    },
+    {
+      "id": "uQHcUWg8A0KYHtEBXykuA",
+      "name": "Bridal Lehenga Choli",
+      "price": 25000,
+      "description": "Stunning bridal lehenga in deep red with gold embroidery. Heavy dupatta with embellished border. A dream outfit for your special day.",
+      "category": "Lehenga Choli",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "bridal-lehenga.webp",
+      "in_stock": true,
+      "created_at": "2026-04-07T07:17:52.322Z"
+    },
+    {
+      "id": "pzQi44J4cQB1kXkaFC2aB",
+      "name": "Indo-Western Crop Top Lehenga",
+      "price": 15500,
+      "description": "Modern Indo-Western lehenga with a crop-top blouse and flared skirt. Contemporary design meets traditional elegance. Great for sangeet and reception.",
+      "category": "Lehenga Choli",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "indo-western-lehenga.webp",
+      "in_stock": true,
+      "created_at": "2026-04-07T07:17:52.322Z"
+    },
+    {
+      "id": "14wQRUj3ejtRp7hR3sFhW",
+      "name": "Traditional Guneu Choli",
+      "price": 8500,
+      "description": "Authentic Nepali Guneu Choli set in vibrant colors. Handcrafted with traditional patterns that celebrate Nepali heritage and femininity.",
+      "category": "Nepali Cultural Wear",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "guneu-choli.webp",
+      "in_stock": true,
+      "created_at": "2026-04-07T07:17:52.322Z"
+    },
+    {
+      "id": "wpDNWbYlVDoFCFBP1cVCr",
+      "name": "Daura Suruwal (Women/Kids)",
+      "price": 6200,
+      "description": "Elegant women's and kids' Daura Suruwal reimagined with modern fabrics. Perfect for Dashain, Tihar, and cultural celebrations.",
+      "category": "Nepali Cultural Wear",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "daura-suruwal.webp",
+      "in_stock": true,
+      "created_at": "2026-04-07T07:17:52.322Z"
+    },
+    {
+      "id": "UDX28JtJ7NNKdGvX2tZx2",
+      "name": "Heritage Bhaku",
+      "price": 9800,
+      "description": "Traditional Newari Bhaku with intricate weaving. A timeless piece of Nepali cultural fashion, perfect for Jatras and special ceremonies.",
+      "category": "Nepali Cultural Wear",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "bhaku.webp",
+      "in_stock": true,
+      "created_at": "2026-04-07T07:17:52.322Z"
+    }
+  ],
+  "admin": [
+    {
+      "id": "b9PsJ00fxLWFsc4yhceQs",
+      "username": "3SisterAdmin",
+      "password_hash": "$2a$10$AaKOgkUdWnuCILwuI89Ymu9WQHOIjLrrIAtU5SKv/D7qmHj5b7wbu"
+    }
+  ]
+}
